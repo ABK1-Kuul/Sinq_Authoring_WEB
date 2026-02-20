@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { GitHubStatsData } from "@/lib/github";
 
-const GITHUB_REPO = "adaptlearning/adapt_authoring";
+const GITHUB_REPO = "ABK1-Kuul/SinqAuthoringTool";
 
 interface GitHubStatsProps {
   data: GitHubStatsData;

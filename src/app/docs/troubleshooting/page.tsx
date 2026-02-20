@@ -69,7 +69,7 @@ export default function TroubleshootingPage() {
       <p>
         If you&apos;re still stuck, open an issue on the{" "}
         <a
-          href="https://github.com/adaptlearning/adapt_authoring/issues"
+          href="https://github.com/ABK1-Kuul/SinqAuthoringTool/issues"
           target="_blank"
           rel="noopener noreferrer"
         >

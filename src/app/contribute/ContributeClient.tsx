@@ -115,9 +115,9 @@ export function ContributeClient({ githubStats }: ContributeClientProps) {
                 the upstream remote to stay in sync with the main project.
               </p>
               <CodeBlock
-                code={`git clone https://github.com/YOUR_USERNAME/adapt_authoring.git
-cd adapt_authoring
-git remote add upstream https://github.com/adaptlearning/adapt_authoring.git`}
+                code={`git clone https://github.com/YOUR_USERNAME/SinqAuthoringTool.git
+cd SinqAuthoringTool
+git remote add upstream https://github.com/ABK1-Kuul/SinqAuthoringTool.git`}
                 language="bash"
                 className="mt-4"
               />
@@ -248,7 +248,7 @@ git remote add upstream https://github.com/adaptlearning/adapt_authoring.git`}
           </p>
           <div className="flex gap-4">
             <Link
-              href="https://github.com/adaptlearning/adapt_authoring/issues"
+              href="https://github.com/ABK1-Kuul/SinqAuthoringTool/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl glass glass-hover px-6 py-3 font-medium text-zinc-300 transition-all"
@@ -256,7 +256,7 @@ git remote add upstream https://github.com/adaptlearning/adapt_authoring.git`}
               Browse Issues
             </Link>
             <Link
-              href="https://github.com/adaptlearning/adapt_authoring"
+              href="https://github.com/ABK1-Kuul/SinqAuthoringTool"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-accent-electric to-accent-violet px-6 py-3 font-medium text-white transition-all hover:opacity-90"

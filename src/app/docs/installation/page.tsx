@@ -28,7 +28,7 @@ export default function InstallationPage() {
       <p>
         Download the latest release from the{" "}
         <a
-          href="https://github.com/adaptlearning/adapt_authoring/releases"
+          href="https://github.com/ABK1-Kuul/SinqAuthoringTool/releases"
           target="_blank"
           rel="noopener noreferrer"
         >

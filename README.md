@@ -89,4 +89,4 @@ src/
 
 ---
 
-**SINQ Authoring Tool** — [GitHub](https://github.com/adaptlearning/adapt_authoring) · [Releases](https://github.com/adaptlearning/adapt_authoring/releases)
+**SINQ Authoring Tool** — [GitHub](https://github.com/ABK1-Kuul/SinqAuthoringTool) · [Releases](https://github.com/ABK1-Kuul/SinqAuthoringTool/releases)

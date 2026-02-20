@@ -1,4 +1,4 @@
-const GITHUB_REPO = "adaptlearning/adapt_authoring";
+const GITHUB_REPO = "ABK1-Kuul/SinqAuthoringTool";
 
 export interface GitHubStatsData {
   latestRelease: string | null;

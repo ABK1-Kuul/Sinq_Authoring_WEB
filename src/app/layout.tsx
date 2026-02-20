@@ -5,9 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "SINQ Authoring Tool | Ultimate Adapt Course Builder",
+  title: "SINQ Authoring Tool | Adapt Authoring, Simplified",
   description:
-    "Build stunning Adapt eLearning courses with visual editing, instant previews, and cross-platform power. Download SINQ Authoring Tool for Windows.",
+    "The power of the Adapt Framework, packaged into a zero-config Windows application. Download SINQ Authoring Tool for free.",
 };
 
 export default function RootLayout({
