@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --charcoal-950: #0d0d0f;
+  --charcoal-900: #141416;
+  --charcoal-800: #1a1a1e;
+  --accent-blue: #3b82f6;
+  --accent-violet: #8b5cf6;
+  --accent-electric: #6366f1;
+}
+
+body {
+  background: var(--charcoal-950);
+  color: #f4f4f5;
+}
+
+/* Glassmorphism base */
+.glass {
+  background: rgba(26, 26, 30, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-hover:hover {
+  background: rgba(35, 35, 40, 0.7);
+  border-color: rgba(99, 102, 241, 0.2);
+}
